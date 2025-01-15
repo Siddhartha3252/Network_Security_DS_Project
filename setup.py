@@ -47,5 +47,5 @@ setup(
     author="Siddhartha Shrivastva",
     author_email="sidvastva@gmail.com",
     packages=find_packages(),
-    install_requires=get_requirements(),
+    install_requires=get_requirements()
 )
