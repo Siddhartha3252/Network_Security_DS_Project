@@ -15,7 +15,8 @@ This project focuses on network security, specifically targeting phishing data. 
 - **Detection Methods**: Develop and implement methods to detect phishing attempts.
 - **Prevention Measures**: Implement security measures to prevent phishing attacks.
 - **Evaluation**: Assess the effectiveness of the detection and prevention methods.
-
+![1 Project_Structure](https://github.com/user-attachments/assets/21c52eaa-629f-495d-a687-28e86ab558dd)
+  
 ## Tools and Technologies
 - Python
 - Machine Learning Libraries (e.g., scikit-learn, TensorFlow)
