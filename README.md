@@ -46,7 +46,7 @@ This project focuses on network security, specifically targeting phishing data. 
     ```bash
     pip install -r requirements.txt
     ```
-    
+     
 ## Conclusion
 This project aims to enhance network security by focusing on phishing data. By analyzing, detecting, and preventing phishing attacks, we can improve the overall security of networks and protect users from malicious activities.
 
