@@ -26,6 +26,6 @@ This project focuses on network security, specifically targeting phishing data. 
 This project aims to enhance network security by focusing on phishing data. By analyzing, detecting, and preventing phishing attacks, we can improve the overall security of networks and protect users from malicious activities.
 
 ## References
-- [Phishing Data Sources](#)
+- [Phishing Data Sources](https://github.com/Siddhartha3252/EDA/blob/main/phisingData.csv)
 - [Network Security Tools](#)
 - [Machine Learning for Security](#)
