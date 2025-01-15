@@ -22,6 +22,31 @@ This project focuses on network security, specifically targeting phishing data. 
 - Network Security Tools (e.g., Wireshark, Snort)
 - Data Visualization Tools (e.g., Matplotlib, Seaborn)
 
+## Key Features
+- **Custom Exception Handling**: Implements `NetworkSecurityException` for precise error management.
+- **CSV to JSON Conversion**: Converts CSV data to JSON format for seamless integration with MongoDB.
+- **Environment Configuration**: Utilizes `python-dotenv` for secure environment variable management.
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone <repository-url>
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Network_Security
+    ```
+3. Create and activate a virtual environment:
+    ```bash
+    python -m venv venv
+    .\venv\Scripts\activate  # On Windows
+    source venv/bin/activate  # On macOS/Linux
+    ```
+4. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
 ## Conclusion
 This project aims to enhance network security by focusing on phishing data. By analyzing, detecting, and preventing phishing attacks, we can improve the overall security of networks and protect users from malicious activities.
 
