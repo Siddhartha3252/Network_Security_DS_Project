@@ -31,7 +31,7 @@ This project focuses on network security, specifically targeting phishing data. 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Siddhartha3252/Network_Security_DS_Project.git
     ```
 2. Navigate to the project directory:
     ```bash
